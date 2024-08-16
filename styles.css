@@ -1,0 +1,188 @@
+body{
+    width: auto;
+}
+
+.btn {
+    background: #0077FF;
+    background-image: -webkit-linear-gradient(top, #0077FF, #64b5e8);
+    background-image: -moz-linear-gradient(top, #0077FF, #64b5e8);
+    background-image: -ms-linear-gradient(top, #0077FF, #64b5e8);
+    background-image: -o-linear-gradient(top, #0077FF, #64b5e8);
+    background-image: linear-gradient(to bottom, #0077FF, #64b5e8);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #7fbbe0;
+    background-image: -webkit-linear-gradient(top, #7fbbe0, #579fcf);
+    background-image: -moz-linear-gradient(top, #7fbbe0, #579fcf);
+    background-image: -ms-linear-gradient(top, #7fbbe0, #579fcf);
+    background-image: -o-linear-gradient(top, #7fbbe0, #579fcf);
+    background-image: linear-gradient(to bottom, #7fbbe0, #579fcf);
+    text-decoration: none;
+  }
+
+.navbar{
+    height: 80px;
+    width: auto;
+    padding:15px 81px 81px 40px;
+    background-color: #FFFFFF;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    margin-left:0px;
+   
+    
+}
+.top{
+    width: auto;
+    height: 80px;
+    margin-left: 0px;
+}
+
+.info{
+    width:auto;
+    height: 727px;
+    padding: 100px, 81px, 100px, 81px;
+    margin-left: 40px;
+    margin-top: 100px;
+    font-size:25px;
+    word-spacing: 2px;
+   
+    
+
+}
+
+
+.btn2 {
+    background: #0077FF;
+    background-image: -webkit-linear-gradient(top, #0077FF, #2980b9);
+    background-image: -moz-linear-gradient(top, #0077FF, #2980b9);
+    background-image: -ms-linear-gradient(top, #0077FF, #2980b9);
+    background-image: -o-linear-gradient(top, #0077FF, #2980b9);
+    background-image: linear-gradient(to bottom, #0077FF, #2980b9);
+    -webkit-border-radius: 31;
+    -moz-border-radius: 31;
+    border-radius: 31px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 12px 40px 13px 40px;
+    text-decoration: none;
+    margin-top: 50px;
+    
+  }
+  
+  .btn2:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  } 
+
+
+  .btn3 {
+    background: #ffffff;
+    background-image: -webkit-linear-gradient(top, #ffffff, #ffffff);
+    background-image: -moz-linear-gradient(top, #ffffff, #ffffff);
+    background-image: -ms-linear-gradient(top, #ffffff, #ffffff);
+    background-image: -o-linear-gradient(top, #ffffff, #ffffff);
+    background-image: linear-gradient(to bottom, #ffffff, #ffffff);
+    -webkit-border-radius: 31;
+    -moz-border-radius: 31;
+    border-radius: 31px;
+    font-family: Georgia;
+    color: #0077ff;
+    font-size: 20px;
+    padding: 12px 40px 13px 40px;
+    border: solid #2c9ade 2px;
+    text-decoration: none;
+    margin-left: 30px;
+  }
+  
+  .btn3:hover {
+    background: #94d1f7;
+    background-image: -webkit-linear-gradient(top, #94d1f7, #90caf0);
+    background-image: -moz-linear-gradient(top, #94d1f7, #90caf0);
+    background-image: -ms-linear-gradient(top, #94d1f7, #90caf0);
+    background-image: -o-linear-gradient(top, #94d1f7, #90caf0);
+    background-image: linear-gradient(to bottom, #94d1f7, #90caf0);
+    text-decoration: none;
+  }
+.name{
+    color: #0077FF;
+}
+.contactme{
+    background-color: #0077FF;
+    width: auto;
+    height: 788px;
+    margin-right: 0;
+    color: #FFFFFF;
+   
+    align-items: center;
+}
+.together{
+    margin-left: 100px;
+    margin-right: 10px;
+    
+}
+.logo{
+    text-decoration: none;
+    color: #2f343a;
+    padding-left: 40px;
+    
+}
+.logo:hover{
+    color: #0077FF;
+}
+
+.logoimage{
+    height: 50px;
+    width: 50px;
+    padding-left: 0%;
+    float: left;
+    
+    
+}
+.logotextimage{
+    float: left;
+}
+.logotext{
+    margin-left: 0;
+    padding-left: 0;
+    overflow: hidden;
+}
+.logoimage:hover{
+    color: #0077FF;
+}
+.testimonials{
+    color: #0077FF;
+
+}
+.profileimage{
+    height: 400px;
+    float: right;
+    padding-top: 0px;
+    margin-right: 200px;
+    margin-top: 30px;
+    
+    
+}
+.footer{
+    height: 150px;
+    width: auto;
+    background-color: #0077FF;
+    margin-top: 0;
+    display: flex;
+    color: #FFFFFF;
+}
