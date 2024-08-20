@@ -732,9 +732,13 @@ body{
   padding-top: 470px;
   background-color: #0077FF;
  padding-top: 30px;
- padding-left: 730px;
- margin-left: 20px;
+ /*padding-left: 730px;
+ margin-left: 20px;*/
  
+
+ .tttt{
+  padding-left: 750px;
+ }
 }
 .btn77 {
   background: #071527;
